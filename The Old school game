@@ -1,4 +1,7 @@
-include <stdio.h>
+/*Made this project for mar purpose*/
+/*Makaut
+Univ roll 34900319043*/
+#include <stdio.h>
 
     #include <stdlib.h>
 
